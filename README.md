@@ -44,7 +44,7 @@ Um dashboard de clima elegante e responsivo que mostra condições meteorológic
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/weather-dashboard.git
+git clone https://github.com/ductvi/weather-dashboard.git
 cd weather-dashboard
 
 # Instale e execute o backend
