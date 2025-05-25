@@ -20,6 +20,7 @@ Um dashboard de clima elegante e responsivo que mostra condições meteorológic
 | Tempo atual           | ☀️    | Temperatura e condições atuais     |
 | Detalhes completos    | 📊    | Umidade, vento, pressão e mais     |
 | Design responsivo     | 📱    | Funciona em qualquer dispositivo   |
+| Tema Dinâmico   | 🕐    | Tema muda de acordo com a hora do dia.
 
 ## 🛠️ Stack Tecnológica
 
